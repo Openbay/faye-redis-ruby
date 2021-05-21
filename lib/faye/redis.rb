@@ -1,4 +1,3 @@
-require 'em-hiredis'
 require 'multi_json'
 
 require File.expand_path('../redis_factory', __FILE__)
